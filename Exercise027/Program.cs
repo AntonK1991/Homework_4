@@ -16,7 +16,6 @@ int DigitQ(int input)
     {
         input = input / 10;
         count++;
-        //System.Console.WriteLine(count);
     }
     return count;
 }
